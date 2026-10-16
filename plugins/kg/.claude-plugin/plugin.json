@@ -1,0 +1,21 @@
+{
+  "name": "kg",
+  "displayName": "Knowledge Garden",
+  "version": "0.6.0",
+  "description": "Project knowledge management for Laravel, Next.js, and generic stacks. 2 agents, 7 commands, 10 skills, 2 coding rulesets for module indexing, dynamic schemas, knowledge capture, insights, pruning, pre-computed indexing, Playwright testing, quickfix, ask, audit, and knowledge-backed workflows. Developed by oaa-dev.",
+  "author": {
+    "name": "oaa-dev",
+    "url": "https://github.com/oaa-dev"
+  },
+  "homepage": "https://github.com/oaa-dev/claude-skill",
+  "repository": "https://github.com/oaa-dev/claude-skill",
+  "license": "MIT",
+  "keywords": [
+    "knowledge-management",
+    "laravel",
+    "nextjs",
+    "documentation",
+    "institutional-knowledge"
+  ],
+  "icon": "./icon.png"
+}

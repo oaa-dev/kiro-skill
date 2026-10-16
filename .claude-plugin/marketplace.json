@@ -1,0 +1,32 @@
+{
+  "name": "personal-plugins",
+  "owner": {
+    "name": "oaa-dev",
+    "url": "https://github.com/oaa-dev"
+  },
+  "metadata": {
+    "description": "Personal plugin marketplace for Claude Code extensions",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "kg",
+      "displayName": "Knowledge Garden",
+      "description": "Project knowledge management for Laravel, Next.js, and generic stacks. Includes 2 agents, 7 commands, 10 skills, and 2 coding rulesets. Developed by oaa-dev.",
+      "author": {
+        "name": "oaa-dev",
+        "url": "https://github.com/oaa-dev"
+      },
+      "version": "0.6.0",
+      "homepage": "https://github.com/oaa-dev/claude-skill",
+      "tags": [
+        "knowledge-management",
+        "laravel",
+        "nextjs",
+        "documentation",
+        "institutional-knowledge"
+      ],
+      "source": "./plugins/kg"
+    }
+  ]
+}

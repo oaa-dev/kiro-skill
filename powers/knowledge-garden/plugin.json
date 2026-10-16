@@ -1,0 +1,31 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "knowledge-garden",
+  "version": "0.6.0",
+  "description": "Project knowledge management for Laravel, Next.js, and generic stacks: module docs, captured solutions, knowledge-backed brainstorm/plan/work/review, quickfix, Q&A, Playwright testing, and stack coding rules. Developed by oaa-dev.",
+  "author": {
+    "name": "oaa-dev",
+    "url": "https://github.com/oaa-dev"
+  },
+  "keywords": [
+    "kg",
+    "knowledge garden",
+    "kg setup",
+    "set up knowledge garden",
+    "knowledge base",
+    "learnings",
+    "institutional knowledge",
+    "module docs",
+    "compound",
+    "quickfix",
+    "brainstorm",
+    "implementation plan",
+    "code review",
+    "playwright",
+    "laravel",
+    "nextjs"
+  ],
+  "homepage": "https://github.com/oaa-dev/kiro-skill",
+  "repository": "https://github.com/oaa-dev/kiro-skill",
+  "license": "MIT"
+}
